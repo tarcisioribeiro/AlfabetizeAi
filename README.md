@@ -1,7 +1,5 @@
 # Aplicativo para Ensino de Crianças
 
-https://img.shields.io/apm/l/react
-
 ## Sobre o projeto
 
 Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Software.
