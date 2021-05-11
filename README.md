@@ -1,6 +1,6 @@
 # Aplicativo para Ensino de Crianças
 
-https://img.shields.io/apm/l/apedc
+https://img.shields.io/apm/l/react
 
 ## Sobre o projeto
 
