@@ -22,15 +22,6 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 ## Primeiras Imagens do Protótipo
 
-![Primeiro Acesso](https://user-images.githubusercontent.com/81392077/126776415-74138cfc-7419-459f-8109-ef087d493467.png)
-
-![Cadastro](https://user-images.githubusercontent.com/81392077/126776569-97188e0b-da85-4681-9b18-183d3e1651f6.png)
-
-![Termos do Contrato](https://user-images.githubusercontent.com/81392077/126778391-9e582edb-63fc-4f0e-b659-bc49f995ca26.png)
-
-![Contrato Aceito](https://user-images.githubusercontent.com/81392077/126776656-7ec7a29f-ce9a-4d3f-9006-4a5faa6b2aa4.png)
-
-![Tela Inicial](https://user-images.githubusercontent.com/81392077/126776895-6b6bc95a-f2d2-4b20-8620-6b3a2bde6998.png)
-
-![Seleção de Fase](https://user-images.githubusercontent.com/81392077/126776933-a08b817e-51d4-42b9-8835-6f5c9d0b9ba0.png)
-
+| ![Primeiro Acesso](https://user-images.githubusercontent.com/81392077/126776415-74138cfc-7419-459f-8109-ef087d493467.png) | ![Cadastro](https://user-images.githubusercontent.com/81392077/126776569-97188e0b-da85-4681-9b18-183d3e1651f6.png) | ![Termos do Contrato](https://user-images.githubusercontent.com/81392077/126778391-9e582edb-63fc-4f0e-b659-bc49f995ca26.png) | ![Contrato Aceito](https://user-images.githubusercontent.com/81392077/126776656-7ec7a29f-ce9a-4d3f-9006-4a5faa6b2aa4.png) | ![Tela Inicial](https://user-images.githubusercontent.com/81392077/126776895-6b6bc95a-f2d2-4b20-8620-6b3a2bde6998.png) |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| ![Seleção de Fase](https://user-images.githubusercontent.com/81392077/126776933-a08b817e-51d4-42b9-8835-6f5c9d0b9ba0.png) |                                                                                                                    |                                                                                                                              |                                                                                                                           |                                                                                                                        |
