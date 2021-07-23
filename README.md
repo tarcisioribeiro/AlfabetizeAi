@@ -2,7 +2,7 @@
 # Aplicativo para Ensino de Crianças
 ---
 
-<div style="text-align:center"><img src="Prototipo\Assets\Images\Logo.png"></div>
+<div style="text-align:center"><img src="https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Logo.png?raw=true"></div>
 
 ---
 ## Sobre o projeto
