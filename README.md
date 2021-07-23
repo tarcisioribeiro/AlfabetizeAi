@@ -2,7 +2,7 @@
 # Aplicativo para Ensino de Crianças
 ---
 
-![Logo](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Logo.png?raw=true)
+<div style="text-align:center"><img src="Prototipo\Assets\Images\Logo.png"></div>
 
 ---
 ## Sobre o projeto
@@ -42,13 +42,16 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
     | ![Tela Inicial](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Home.png?raw=true) | ![Seleção de Fase](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/SelecaoFase.png?raw=true) | ![Opções](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Opcoes.png?raw=true) | ![Suporte](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Suporte.png?raw=true) |
     |---|---|---|---|
 
-* **Demonstração da Primeira Versão:**
+---
 
-    Obs: Para acessar o vídeo de apresentação, clique na imagem abaixo. O vídeo pode estar desatualizado.
+## **Demonstração da Primeira Versão:**
 
-    [![APEDC (Primeira Versão)](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/PrimeiroAcesso.png?raw=true)](https://www.youtube.com/watch?v=Dvo1t4duaXM)
+* **Obs: Para acessar o vídeo de apresentação, clique na imagem abaixo. O vídeo pode estar desatualizado.**
+
+    <div style="text-align: center;"><a href="https://www.youtube.com/watch?v=Dvo1t4duaXM"><img src="https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/PrimeiroAcesso.png?raw=true" alt="APEDC (Primeira Versão)"></a></div>
 
 ## Licença
 
-[MIT](https://choosealicense.com/licenses/mit/).
+**[MIT](https://choosealicense.com/licenses/mit/).**
 
+---
