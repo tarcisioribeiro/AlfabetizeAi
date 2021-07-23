@@ -34,7 +34,7 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Telas de Login Alternativo**
 
-    |![Login com Google](https://user-images.githubusercontent.com/81392077/126784356-7bf38fd1-0f8b-40f6-9bf6-673a1237f3a0.png) |![Login com Facebook](https://user-images.githubusercontent.com/81392077/126784411-2396937f-13d4-436b-87da-a59ea975f0fb.png) |![Login com Apple ID](https://user-images.githubusercontent.com/81392077/126784488-87caaf16-0c0e-41ce-8f73-e861a5941db8.png) |
+    |![Login com Google](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Imagens/LoginGoogle.png?raw=true) |![Login com Facebook](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Imagens/LoginFacebook.png?raw=true) |![Login com Apple ID](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Imagens/LoginApple.png?raw=true) |
     |---|---|---|
 
 * **Telas de Opções e Configurações**
