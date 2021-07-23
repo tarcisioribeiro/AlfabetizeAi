@@ -30,10 +30,14 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Telas de Login Alternativo**
 
-    | ![Login com Google]((https://user-images.githubusercontent.com/81392077/126793142-de732c51-eb48-46c2-aef4-927a637f2b27.png) |![Login com Facebook](https://user-images.githubusercontent.com/81392077/126793228-ae9cb772-f9e1-4a66-b866-b94613186750.png) |![Login com Apple ID](https://user-images.githubusercontent.com/81392077/126793360-0a2d2166-18b3-4492-b88d-f348252b6b3d.png) |
+    | ![Login com Google](https://user-images.githubusercontent.com/81392077/126793142-de732c51-eb48-46c2-aef4-927a637f2b27.png) |![Login com Facebook](https://user-images.githubusercontent.com/81392077/126793228-ae9cb772-f9e1-4a66-b866-b94613186750.png) |![Login com Apple ID](https://user-images.githubusercontent.com/81392077/126793360-0a2d2166-18b3-4492-b88d-f348252b6b3d.png) |
     |---|---|---|
 
 * **Telas de Opções e Configurações**
 
     | ![Tela Inicial](https://user-images.githubusercontent.com/81392077/126776895-6b6bc95a-f2d2-4b20-8620-6b3a2bde6998.png) | ![Seleção de Fase](https://user-images.githubusercontent.com/81392077/126776933-a08b817e-51d4-42b9-8835-6f5c9d0b9ba0.png) | ![Opções](https://user-images.githubusercontent.com/81392077/126781138-5e00be08-6f8f-44fa-993c-4bbfa5759d78.png) | ![Suporte](https://user-images.githubusercontent.com/81392077/126781174-8e3e53c7-ed0e-4c5d-aefa-d06d647a5f94.png) |
     |---|---|---|---|
+
+* **Demonstração da Primeira Versão**
+
+    [![APEDC (Primeira Versão)](https://i.ytimg.com/vi/Dvo1t4duaXM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs3do4qF6n5we20vXo0KNZ_UQZfQ)](https://www.youtube.com/watch?v=Dvo1t4duaXM)
