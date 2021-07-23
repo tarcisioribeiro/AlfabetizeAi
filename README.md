@@ -20,7 +20,7 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Telas de Login**
 
-    |![Primeiro Acesso](https://user-images.githubusercontent.com/81392077/126776415-74138cfc-7419-459f-8109-ef087d493467.png) |![Login](https://user-images.githubusercontent.com/81392077/126783815-98d4a3d4-5e1e-4e8f-b888-81150749ad8b.png) |
+    |![Primeiro Acesso](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Register/PrimeiroAcesso.png?raw=true) |![Login](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Login/Login.png?raw=true) |
     |---|---|
 
 * **Telas de Primeiro Cadastro**
@@ -35,9 +35,9 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Telas de Opções e Configurações**
 
-    | ![Tela Inicial](https://user-images.githubusercontent.com/81392077/126776895-6b6bc95a-f2d2-4b20-8620-6b3a2bde6998.png) | ![Seleção de Fase](https://user-images.githubusercontent.com/81392077/126815145-2a8e5c3c-ba3d-431b-b4ac-8cbedb8aa3df.png) | ![Opções](https://user-images.githubusercontent.com/81392077/126781138-5e00be08-6f8f-44fa-993c-4bbfa5759d78.png) | ![Suporte](https://user-images.githubusercontent.com/81392077/126781174-8e3e53c7-ed0e-4c5d-aefa-d06d647a5f94.png) |
+    | ![Tela Inicial](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Home.png?raw=true) | ![Seleção de Fase](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/SelecaoFase.png?raw=true) | ![Opções](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Opcoes.png?raw=true) | ![Suporte](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Suporte.png?raw=true) |
     |---|---|---|---|
 
 * **Demonstração da Primeira Versão**
 
-    [![APEDC (Primeira Versão)](https://user-images.githubusercontent.com/81392077/126801808-fddbb694-25a3-4f8c-8fd7-5296405054ee.png)](https://www.youtube.com/watch?v=Dvo1t4duaXM)
+    [![APEDC (Primeira Versão)](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Dispositivo.png?raw=true)](https://www.youtube.com/watch?v=Dvo1t4duaXM)
