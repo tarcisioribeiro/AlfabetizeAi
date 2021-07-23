@@ -39,5 +39,5 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Telas de Opções e Configurações**
 
-|![Tela Inicial](https://user-images.githubusercontent.com/81392077/126776895-6b6bc95a-f2d2-4b20-8620-6b3a2bde6998.png) |![Seleção de Fase](https://user-images.githubusercontent.com/81392077/126776933-a08b817e-51d4-42b9-8835-6f5c9d0b9ba0.png) |![Opções](https://user-images.githubusercontent.com/81392077/126781138-5e00be08-6f8f-44fa-993c-4bbfa5759d78.png) |![Suporte](https://user-images.githubusercontent.com/81392077/126781174-8e3e53c7-ed0e-4c5d-aefa-d06d647a5f94.png) |
-|---|---|---|---|
+    | ![Tela Inicial](https://user-images.githubusercontent.com/81392077/126776895-6b6bc95a-f2d2-4b20-8620-6b3a2bde6998.png) | ![Seleção de Fase](https://user-images.githubusercontent.com/81392077/126776933-a08b817e-51d4-42b9-8835-6f5c9d0b9ba0.png) | ![Opções](https://user-images.githubusercontent.com/81392077/126781138-5e00be08-6f8f-44fa-993c-4bbfa5759d78.png) | ![Suporte](https://user-images.githubusercontent.com/81392077/126781174-8e3e53c7-ed0e-4c5d-aefa-d06d647a5f94.png) |
+    |---|---|---|---|
