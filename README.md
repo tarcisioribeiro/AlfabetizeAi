@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Software.
+Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Software pelo [Uni-FACEF](https://www.unifacef.com.br/), sobre a orientação do Professor [Daniel Facciolo Pires](https://github.com/dfpires).
 
 ## Objetivos do Projeto
 
@@ -40,4 +40,4 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Demonstração da Primeira Versão**
 
-    [![APEDC (Primeira Versão)](https://user-images.githubusercontent.com/81392077/126795370-28a3c09b-c4fb-49ce-a4f2-297e9f93724b.png)](https://www.youtube.com/watch?v=Dvo1t4duaXM)
+    [![APEDC (Primeira Versão)](https://user-images.githubusercontent.com/81392077/126801808-fddbb694-25a3-4f8c-8fd7-5296405054ee.png)](https://www.youtube.com/watch?v=Dvo1t4duaXM)
