@@ -1,7 +1,5 @@
 # Aplicativo para Ensino de Crianças
 
----
-
 ## Sobre o projeto
 
 Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Software.
@@ -17,8 +15,6 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 * Link para uso inicial do protótipo: [APEDC](https://www.figma.com/file/TZR3CZQWU1AnDespexqltq/APEDC?node-id=0%3A1).
 
 **Obs: Todas as imagens utilizadas no projeto possuem licença de uso Creative Commons.**
-
----
 
 ## Primeiras Imagens do Protótipo
 
