@@ -40,4 +40,4 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Demonstração da Primeira Versão**
 
-    [![APEDC (Primeira Versão)](https://i.ytimg.com/vi/Dvo1t4duaXM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs3do4qF6n5we20vXo0KNZ_UQZfQ)](https://www.youtube.com/watch?v=Dvo1t4duaXM)
+    [![APEDC (Primeira Versão)](https://user-images.githubusercontent.com/81392077/126795370-28a3c09b-c4fb-49ce-a4f2-297e9f93724b.png)](https://www.youtube.com/watch?v=Dvo1t4duaXM)
