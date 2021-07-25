@@ -14,7 +14,7 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 * Elaborar o protótipo de um aplicativo voltado para o ensino de crianças.
 * Elaborar a documentação do projeto.
 
-## Sobre o Portótipo
+## Sobre o Protótipo
 
 * Ferramenta utilizada para a prototipação de telas: [Figma Online](https://www.figma.com/).
 * Link para uso inicial do protótipo: [APEDC](https://www.figma.com/file/TZR3CZQWU1AnDespexqltq/APEDC?node-id=0%3A1).
@@ -29,12 +29,12 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Telas do Primeiro Cadastro:**
   
-    |![Cadastro](https://user-images.githubusercontent.com/81392077/126776569-97188e0b-da85-4681-9b18-183d3e1651f6.png) |![Termos do Contrato](https://user-images.githubusercontent.com/81392077/126778391-9e582edb-63fc-4f0e-b659-bc49f995ca26.png) |![Contrato Aceito](https://user-images.githubusercontent.com/81392077/126776656-7ec7a29f-ce9a-4d3f-9006-4a5faa6b2aa4.png) |
+    |![Cadastro](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Contract_Terms/Cadastro.png?raw=true) |![Termos do Contrato](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Contract_Terms/TermosContrato.png?raw=true) |![Contrato Aceito](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Contract_Terms/CadastroSucesso.png?raw=true) |
     |---|---|---|
 
 * **Telas de Login Alternativo:**
 
-    | ![Login com Google](https://user-images.githubusercontent.com/81392077/126793142-de732c51-eb48-46c2-aef4-927a637f2b27.png) |![Login com Facebook](https://user-images.githubusercontent.com/81392077/126793228-ae9cb772-f9e1-4a66-b866-b94613186750.png) |![Login com Apple ID](https://user-images.githubusercontent.com/81392077/126793360-0a2d2166-18b3-4492-b88d-f348252b6b3d.png) |
+    | ![Login com Google](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Login/LoginGoogle.png?raw=true) |![Login com Facebook](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Login/LoginFacebook.png?raw=true) |![Login com Apple ID](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Login/LoginAppleID.png?raw=true) |
     |---|---|---|
 
 * **Telas de Opções e Configurações:**
