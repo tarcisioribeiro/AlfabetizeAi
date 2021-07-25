@@ -2,7 +2,8 @@
 # Aplicativo para Ensino de Crianças
 ---
 
-<div style="text-align:center"><img src="https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Logo.png?raw=true"></div>
+|![Logo]("https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Logo.png?raw=true")|![WebSite](Prototipo\Assets\WebSite\HomePage.png)|
+|---|---|
 
 ---
 ## Sobre o projeto
@@ -18,13 +19,14 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * Ferramenta utilizada para a prototipação de telas: [Figma Online](https://www.figma.com/).
 * Link para uso inicial do protótipo: [APEDC](https://www.figma.com/file/TZR3CZQWU1AnDespexqltq/APEDC?node-id=0%3A1).
+* Link para visualização do WebSite do Produto: [WebSite](https://www.figma.com/file/e8tG1AkOi07ALM5RPDwLHv/WebSite).
 - Obs: Todas as imagens utilizadas no projeto possuem licença de uso Creative Commons.
 
 ## Primeiras Imagens do Protótipo
 
 * **Telas de Login:**
 
-    |![Primeiro Acesso](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/PrimeiroAcesso.png?raw=true) |![Login](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Login/Login.png?raw=true) |
+    |![Primeiro Acesso](https://user-images.githubusercontent.com/81392077/126898028-457f85d4-5d4f-49c6-be96-88c240f04e3b.png) |![Login](https://user-images.githubusercontent.com/81392077/126898047-7995bff6-a64b-4d8c-8095-b46b0a72a0fe.png) |
     |---|---|
 
 * **Telas do Primeiro Cadastro:**
