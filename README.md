@@ -1,10 +1,6 @@
 
 # Aplicativo para Ensino de Crianças
----
 
-![Logo]("https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Logo.png?raw=true)
-
----
 ## Sobre o projeto
 
 Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Software pelo [Uni-FACEF](https://www.unifacef.com.br/), sobre a orientação do Professor [Daniel Facciolo Pires](https://github.com/dfpires).
@@ -25,7 +21,7 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Telas de Login:**
 
-    |![Primeiro Acesso](https://user-images.githubusercontent.com/81392077/126898028-457f85d4-5d4f-49c6-be96-88c240f04e3b.png) |![Login](https://user-images.githubusercontent.com/81392077/126898047-7995bff6-a64b-4d8c-8095-b46b0a72a0fe.png) |
+    |![Primeiro Acesso](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/PrimeiroAcesso.png?raw=true) |![Login](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Login/Login.png?raw=true) |
     |---|---|
 
 * **Telas do Primeiro Cadastro:**
