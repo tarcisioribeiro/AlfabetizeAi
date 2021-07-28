@@ -38,7 +38,7 @@ if escolha == 'B':
     sleep(0.5)
     press('enter')
     sleep(0.5)
-    write('git commit -m "Mudanças no projeto."')
+    write('git commit -m "Versionando o projeto."')
     sleep(0.5)
     press('enter')
     sleep(0.5)
