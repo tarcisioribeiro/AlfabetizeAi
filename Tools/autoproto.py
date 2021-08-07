@@ -4,7 +4,7 @@ sleep(2)
 print()
 sleep(0.5)
 escolha = str(input(
-    'O que deseja fazer?\n\n[A] Abrir a ferramenta Figma\n[B] Versionar o projeto.\n[C] Abortar o programa.\n\nInsira aqui a letra correspondente a sua opção: ')).upper()
+    'O que deseja fazer?\n\n[A] Abrir a ferramenta Figma\n[B] Versionar o projeto.\n[C] Abrir a ferramenta Trello.\n[D] Abortar o programa.\n\nInsira aqui a letra correspondente a sua opção: ')).upper()
 sleep(0.5)
 
 if escolha == 'A':
@@ -51,13 +51,29 @@ if escolha == 'B':
 if escolha == 'C':
     print()
     sleep(0.5)
+    print('Abrindo a ferramenta Trello...')
+    sleep(0.5)
+    press('win')
+    sleep(0.5)
+    write('Google Chrome')
+    sleep(10)
+    hotkey('ctrl', 't')
+    sleep(0.5)
+    write('https://trello.com/tarcisioribeiro7/boards')
+    sleep(0.5)
+    press('enter')
+    sleep(0.5)
+
+if escolha == 'D':
+    print()
+    sleep(0.5)
     print('Saindo do programa...')
     sleep(3)
     hotkey('alt', 'f4')
 
-if escolha not in 'ABC':
+if escolha not in 'ABCD':
 
-    while escolha not in 'ABC':
+    while escolha not in 'ABCD':
         print()
         sleep(0.5)
         escolha = str(input(
@@ -106,6 +122,22 @@ if escolha not in 'ABC':
             hotkey('alt', 'f4')
 
         if escolha == 'C':
+            print()
+            sleep(0.5)
+            print('Abrindo a ferramenta Trello...')
+            sleep(0.5)
+            press('win')
+            sleep(0.5)
+            write('Google Chrome')
+            sleep(10)
+            hotkey('ctrl', 't')
+            sleep(0.5)
+            write('https://trello.com/tarcisioribeiro7/boards')
+            sleep(0.5)
+            press('enter')
+            sleep(0.5)
+
+        if escolha == 'D':
             print()
             sleep(0.5)
             print('Saindo do programa...')
