@@ -35,7 +35,7 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Telas de Opções e Configurações:**
 
-    | ![Tela Inicial](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Home.png?raw=true) | ![Seleção de Fase](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/SelecaoFase.png?raw=true) | ![Opções](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Opcoes.png?raw=true) | ![Suporte](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Suporte.png?raw=true) |
+    | ![Tela Inicial](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Home.png?raw=true) | ![Seleção de Fase](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/SelecaoCategoria.png?raw=true) | ![Opções](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Opcoes.png?raw=true) | ![Suporte](https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/Home_and_Options/Suporte.png?raw=true) |
     |---|---|---|---|
 
 * **Telas de Modos de Uso:**
