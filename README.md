@@ -97,7 +97,7 @@ Projeto desenvolvido no Trabalho de Conclusão de Curso de Engenharia de Softwar
 
 * **Obs: Para acessar o vídeo de apresentação, clique na imagem abaixo. O vídeo pode estar desatualizado.**
 
-    <div style="text-align: center;"><a href="https://www.youtube.com/watch?v=Dvo1t4duaXM"><img src="https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/PrimeiroAcesso.png?raw=true" alt="APEDC (Primeira Versão)"></a></div>
+    <div style="text-align: center;"><a href="https://www.youtube.com/watch?v=1g5z5F4855k"><img src="https://github.com/tarcisioribeiro/APEDC/blob/main/Prototipo/Assets/Images/PrimeiroAcesso.png?raw=true" alt="APEDC (Primeira Versão)"></a></div>
 
 ## Licença
 
