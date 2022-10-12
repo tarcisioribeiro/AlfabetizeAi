@@ -1,5 +1,5 @@
 
-# Aplicativo para Ensino de Crianças
+# AlfabetizeiAi: Um Aplicativo para Ensino de Crianças
 
 ## Sobre o projeto
 
